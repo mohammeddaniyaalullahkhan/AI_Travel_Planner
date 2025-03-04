@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🚀 Destination Dynamo AI : Travel Assistant
 
 ## Overview :
