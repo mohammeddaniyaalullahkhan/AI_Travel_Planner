@@ -1,4 +1,4 @@
-
+# AI_Travel_Planner
 # 🚀 Destination Dynamo AI : Travel Assistant
 
 ## Overview :
@@ -81,5 +81,5 @@ TRANSPORT_API_KEY=your_transport_api_key
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 =======
-# AI_Travel_Planner
->>>>>>> 090ca68e17bf1e86cd4ee9060b4caea3221886d8
+
+
